@@ -1,0 +1,50 @@
+.display-1 {
+    color: rgb(79, 182, 79);
+    font-family: 'Archivo Black', sans-serif;
+}
+.jumbotron {
+background-image: linear-gradient(rgba(0,0,0,0.7) 90%,rgba(0,0,0,0.4) 100%), url(../assets/movieBackground.jpg);
+    background-size: cover;
+    height: 60vh;
+    margin-bottom: 0;
+}
+
+.btn-primary{
+    color: black;
+    background-color: white;
+    border-color: white;
+}
+
+.container{
+    padding: 0px;
+    background-attachment: fixed;
+}
+
+.display-3 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+.Get {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+.display-2{
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.box{
+    background-image: url(../assets/hex-color-002323-color-name-dark-green-rgb03535-windows-dark-green-background-color-png-628_280.png);
+    background-size: cover;
+    height: 15vh;
+    margin-bottom: 0;
+}
+
+.jumbotron1{
+    background-image: url(..//assets/pure-black-background-f82588d3.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 0;
+}
